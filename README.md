@@ -1,49 +1,61 @@
 # Mehedi Hossain
 
-Founder & CTO · Zain Technologies LTD
-[Email](mailto:mehedi@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/in/mehedi-hossain) · [Portfolio](https://zain-technologies-22.github.io/ZAIN-HMS/) · [Twitter](https://twitter.com/mehedi_codes)
+Cybersecurity Expert · SOC Analyst · Full Stack Developer · Network Security Specialist
+
+[Email](mailto:mehedi@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/in/mehedi-hossain) · [Portfolio](https://mehedihossain95.github.io) · [Twitter](https://twitter.com/mhbabo95)
 
 ---
 
 ## 🚀 About Me
 
-- 🏥 **Founder & CTO at Zain Technologies** — building enterprise healthcare platforms that power hospitals across the MENA region
-- 🧠 Full-stack polyglot with 9+ years in Django, React, DevOps, and cloud-native architecture
-- 🔐 Driving secure, compliant medical systems with HIPAA-ready workflows and automated governance
-- 🤖 Leading teams that deliver CI/CD-first, test-driven engineering cultures
+- 🔐 **Cybersecurity & SOC Expert** — Advanced threat detection, incident response, and security operations across enterprise environments
+- 🌐 **Network Security Specialist** — Designing secure network architectures, firewall configurations, and intrusion prevention systems
+- 💻 **Full Stack Developer & DevSecOps** — Building secure applications with integrated security from development to deployment
+- 🏥 **Founder & CTO at Zain Technologies** — Leading technical strategy for secure healthcare platforms and enterprise solutions
 
 ## 🏆 Highlights
 
-- **ZAIN HMS v2.1.0** — Modernized hospital management system with GitOps, auto-upgrades, and 50% faster deployments
-- **Platform Resilience** — Designed disaster recovery that keeps hospitals online with <5 min RTO
-- **Engineering Scale** — Mentored 25+ engineers across product, platform, and security squads
-- **Community Voice** — Speaker at HealthTech Summit 2024 on "AI-driven Clinical Decision Support"
+- **SOC Operations Leadership** — Managed 24/7 security operations, threat hunting, and incident response for 500+ endpoints
+- **Network Security Architecture** — Designed and implemented zero-trust network solutions for critical infrastructure
+- **ZAIN HMS SecOps** — Built healthcare platform with HIPAA compliance, automated security monitoring, and threat detection
+- **Security Research** — Published findings on APT detection techniques and network anomaly analysis
 
-## 🔧 Core Toolbelt
+## 🔧 Core Expertise
 
-| Domain | Technologies |
+| Domain | Technologies & Skills |
 | --- | --- |
-| Backend | Django 5.x, DRF, FastAPI, Celery, PostgreSQL, Redis |
-| Frontend | React, Next.js, Tailwind, Chakra UI, Storybook |
-| DevOps | GitHub Actions, Docker, Kubernetes, Terraform, AWS, Nginx |
-| Security & Monitoring | Sentry, Falco, OpenTelemetry, Vault, Dependabot |
-| Data & AI | Pandas, scikit-learn, LangChain, Superset |
+| **SOC & Threat Detection** | SIEM (Splunk, QRadar, ELK), SOAR, Threat Hunting, Incident Response, Digital Forensics |
+| **Network Security** | Firewall Management, IDS/IPS, VPN, Network Segmentation, Zero Trust Architecture |
+| **Vulnerability Management** | Nessus, OpenVAS, Qualys, Penetration Testing, Risk Assessment, Compliance Auditing |
+| **Security Tools** | Wireshark, Nmap, Metasploit, Burp Suite, OWASP ZAP, Kali Linux, Security Onion |
+| **Cloud Security** | AWS Security, Azure Sentinel, Cloud SIEM, Container Security, DevSecOps Pipelines |
+| **Development** | Python (Security Automation), Django, React, Docker, Kubernetes, CI/CD Security |
 
 ## 💡 Current Focus
 
-- Launching **AI-assisted clinical workflows** for ZAIN HMS
-- Rolling out **multi-tenant SaaS infrastructure** across 12 partner hospitals
-- Establishing an **Open Healthcare Starter Kit** for rapid hospital onboarding
+- Building **AI-powered SOC automation** tools for faster threat detection and response
+- Implementing **zero-trust security frameworks** for cloud-native applications
+- Developing **automated compliance monitoring** systems for healthcare and finance sectors
+- Contributing to **open-source security tools** and threat intelligence platforms
 
-## 📚 Featured Work
+## 📚 Featured Security Projects
 
-| Project | Description | Stack |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [ZAIN HMS](https://github.com/Zain-Technologies-22/ZAIN-HMS) | Enterprise healthcare platform with CI/CD, auto-upgrade, analytics | Django · DRF · Redis · Celery · Docker |
-| [Hospital Analytics Hub](https://github.com/MehediHossain95/hospital-analytics-hub) | Real-time analytics dashboards for hospital KPIs | Superset · PostgreSQL · Python |
-| [MedOps Chatbot](https://github.com/MehediHossain95/medops-chatbot) | Conversational AI for clinical operations | LangChain · FastAPI · OpenAI |
+| [SecOps Dashboard](https://github.com/MehediHossain95/secops-dashboard) | Real-time SOC monitoring with automated threat detection and response | Python · ELK Stack · SIEM · Machine Learning |
+| [Network Security Toolkit](https://github.com/MehediHossain95/network-security-toolkit) | Comprehensive network analysis and penetration testing suite | Python · Scapy · Nmap · Custom Scripts |
+| [ZAIN HMS Security](https://github.com/Zain-Technologies-22/ZAIN-HMS) | Healthcare platform with integrated security monitoring and compliance | Django · Security Controls · HIPAA Compliance |
+| [Threat Intel Aggregator](https://github.com/MehediHossain95/threat-intel-aggregator) | Automated threat intelligence collection and analysis platform | Python · APIs · Data Analysis · Visualization |
 
-## 📈 Stats at a Glance
+## 🛡️ Security Certifications & Training
+
+- **SOC Analyst Level 1 & 2** - Advanced threat detection and incident response
+- **Network Security Specialist** - Cisco, Juniper, and enterprise firewall management  
+- **Penetration Testing** - Ethical hacking and vulnerability assessment methodologies
+- **Cloud Security** - AWS Security Specialty and Azure Security Engineer
+- **Compliance Frameworks** - NIST, ISO 27001, HIPAA, SOC 2 implementation
+
+## 📈 Stats & Recognition
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MehediHossain95&hide_border=true&background=0D1117&ring=00E6FE&fire=F95738)
 
@@ -51,18 +63,30 @@ Founder & CTO · Zain Technologies LTD
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHossain95&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E6FE)
 
-## 📝 Writing & Talks
+## 🎯 Security Specializations
 
-- [Modern DevOps for Healthcare Startups](https://medium.com/@mehedi_hossain/modern-devops-healthcare) — Medium, 2025
-- [Podcast] Automating Compliance with GitOps — DevOps Pulse (Episode 71)
-- [Slides] Building Trustworthy Clinical AI — HealthTech Summit 2024
+- **Incident Response & Digital Forensics** - Rapid threat containment and evidence analysis
+- **Network Traffic Analysis** - Deep packet inspection and anomaly detection
+- **Malware Analysis** - Static and dynamic analysis of security threats
+- **Security Architecture** - Design of secure systems and infrastructure
+- **Compliance & Risk Management** - Regulatory requirements and risk mitigation strategies
 
-## 🤝 Let's Collaborate
+## 📝 Security Research & Publications
 
-- 📬 **Advisory & Consulting** — Digital transformation for hospitals and SaaS teams
-- 🧑‍🏫 **Mentorship** — DevOps, platform engineering, and secure healthcare systems
-- 🎤 **Speaking** — Conferences, webinars, and technical workshops
+- [Advanced Persistent Threat Detection in Healthcare Networks](https://medium.com/@mehedi_hossain/apt-detection-healthcare) — Medium, 2025
+- [Building Zero-Trust Architecture for SMEs](https://cybersecurity-journal.com/zero-trust-sme) — Cybersecurity Journal, 2024
+- [Podcast] SOC Automation and AI Integration — SecTalks Podcast (Episode 89)
+- [Conference] Network Security for Critical Infrastructure — CyberSec Summit 2024
 
-> "Great healthcare software isn't just compliant—it's compassionate, resilient, and anticipates clinical needs."
+## 🤝 Security Consulting & Services
 
-### ✳️ Always open to purposeful collaborations — let's build healthcare that heals
+- 🔍 **SOC Implementation** — Setup and optimization of security operations centers
+- 🛡️ **Penetration Testing** — Comprehensive security assessments and vulnerability analysis
+- 🌐 **Network Security Design** — Secure architecture planning and implementation
+- 📋 **Compliance Auditing** — HIPAA, SOC 2, ISO 27001, and other regulatory frameworks
+- 🚨 **Incident Response** — Emergency security breach containment and remediation
+- 🎓 **Security Training** — Team education on cybersecurity best practices
+
+> "Security isn't just about technology—it's about building resilient systems that protect what matters most while enabling innovation and growth."
+
+### ✳️ Always ready to secure your digital infrastructure and defend against evolving threats
