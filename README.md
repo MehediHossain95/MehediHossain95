@@ -1,7 +1,6 @@
 # Mehedi Hossain
 
-Founder & CTO · Healthcare Systems Architect · DevOps Advocate
-
+Founder & CTO · Zain Technologies LTD
 [Email](mailto:mehedi@zain-technologies.com) · [LinkedIn](https://www.linkedin.com/in/mehedi-hossain) · [Portfolio](https://zain-technologies-22.github.io/ZAIN-HMS/) · [Twitter](https://twitter.com/mehedi_codes)
 
 ---
